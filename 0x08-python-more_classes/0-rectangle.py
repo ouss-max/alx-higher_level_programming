@@ -1,7 +1,16 @@
 #!/usr/bin/python3
 
-'''define a rectangle classe. '''
+class Rectangle:
+    """
+    Represents a rectangle.
 
-    class Rectangle:
-        ''' represent a rectangle. '''
+    Attributes:
+        No attributes defined yet.
+    """
+
+    def __init__(self):
+        """
+        Initializes an instance of the Rectangle class.
+        """
         pass
+
